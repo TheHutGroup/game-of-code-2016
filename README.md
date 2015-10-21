@@ -1,5 +1,5 @@
 # Welcome to Game of Code 2015!
-## A A competition for software developers to win £100,000
+## A competition for software developers to win £100,000
 
 Follow [@twitter_handle](https://#) for competition news and updates.
 

@@ -1,7 +1,7 @@
 # Welcome to Game of Code 2015!
 ## A competition for software developers to win £100,000
 
-Follow [@twitter_handle](https://#) for competition news and updates.
+Follow [@TheHutGroup](https://twitter.com/TheHutGroup) for competition news and updates.
 
 On behalf of everyone at The Hut Group we’d like to thank you for entering our competition and wish you best of luck on your journey ahead. You’ll need skill, you’ll need strength, you’ll need an endless supply of Red Bull or alternative-energy-drink-that-is-readily-available-in-all-good-highstreet-shops. But most of all you’ll need an almighty idea.
 

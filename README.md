@@ -15,10 +15,11 @@ You’ll find everything you need to complete your quest right here, so have a l
 
 ## 4 STEPS TO BEGIN YOUR QUEST
 
-* Step 01: Read the rules of Game of Code.
-* Step 02: Sign up/ sign in with a GitHub account.
-* Step 03: Develop your idea for a Health & Beauty app.
-* Step 04: Submit your work to the site.
+* Step 01: Read the [https://github.com/TheHutGroup/game-of-code-2015/wiki](rules of Game of Code.)
+* Step 02: [http://eepurl.com/bDujqj](Send us) your email address, Github ID and participation details.
+* Step 03: [https://github.com/TheHutGroup/game-of-code-2015/fork_select](Fork) this repo to your Github account 
+* Step 03: Develop your idea for a Health & Beauty / Fitness, or nutrition mobile app.
+* Step 04: Modify your fork to present your proposal.
 
 ---
 

@@ -7,7 +7,7 @@ On behalf of everyone at The Hut Group we’d like to thank you for entering our
 
 An idea so jaw-droppingly powerful that visiting Heads of State feel nervous and a bit twitchy in its presence; an idea so mind-blowingly brilliant that bottom lips across the whole of Silicon Valley will start to wobble; an idea so incredibly simple that there won’t be a brick wall in Seattle that doesn’t have someone banging their head against it.
 
-An idea we love so much we’ll give you £100,000.
+An idea we love so much **we’ll give you £100,000**.
 
 You’ll find everything you need to complete your quest right here, so have a look around and if you’ve any questions you can contact our team on: [email link]
 
@@ -15,7 +15,7 @@ You’ll find everything you need to complete your quest right here, so have a l
 
 ## 4 STEPS TO BEGIN YOUR QUEST
 
-* Step 01: Read the [https://github.com/TheHutGroup/game-of-code-2015/wiki](rules of Game of Code.)
+### * Step 01: Read the [https://github.com/TheHutGroup/game-of-code-2015/wiki](rules of Game of Code.)
 * Step 02: [http://eepurl.com/bDujqj](Send us) your email address, Github ID and participation details.
 * Step 03: [https://github.com/TheHutGroup/game-of-code-2015/fork_select](Fork) this repo to your Github account 
 * Step 03: Develop your idea for a Health & Beauty / Fitness, or nutrition mobile app.

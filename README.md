@@ -15,15 +15,15 @@ You’ll find everything you need to complete your quest right here, so have a l
 
 ## 4 STEPS TO BEGIN YOUR QUEST
 
-### * Step 01: Read the [https://github.com/TheHutGroup/game-of-code-2015/wiki](rules of Game of Code.)
-* Step 02: [http://eepurl.com/bDujqj](Send us) your email address, Github ID and participation details.
-* Step 03: [https://github.com/TheHutGroup/game-of-code-2015/fork_select](Fork) this repo to your Github account 
-* Step 03: Develop your idea for a Health & Beauty / Fitness, or nutrition mobile app.
-* Step 04: Modify your fork to present your proposal.
+### Step 01: Read the [rules of Game of Code.](https://github.com/TheHutGroup/game-of-code-2015/wiki)
+### Step 02: [Send us](http://eepurl.com/bDujqj) your email address, Github ID and participation details.
+### Step 03: [Fork](https://github.com/TheHutGroup/game-of-code-2015/fork_select) this repo to your Github account 
+### Step 03: Develop your idea for a Health & Beauty / Fitness, or nutrition mobile app.
+### Step 04: Modify your fork to present your proposal.
 
 ---
 
-We need to know your email address and GitHub ID so that we can contact you about your entry. Your information will only be used to administer the Game of Code competition. We are collecting information using this MailChimp form. It will send you an email to verify your address. If you have problems registering with MailChimp, you can contact us via [EMAIL ADDRESS]. Please make sure you include your GitHub ID.
+We need to know your email address and GitHub ID so that we can contact you about your entry. Your information will only be used to administer the Game of Code competition. We are collecting information using this MailChimp form. It will send you an email to verify your address. If you have problems registering with MailChimp, you can contact us via [gameofcode@thehutgroup.com](mailto:gameofcode@thehutgroup.com). Please make sure you include your GitHub ID.
 
 ---
 

@@ -9,7 +9,7 @@ An idea so jaw-droppingly powerful that visiting Heads of State feel nervous and
 
 An idea we love so much **we’ll give you £100,000**.
 
-You’ll find everything you need to complete your quest right here, so have a look around and if you’ve any questions you can contact our team on: [email link]
+You’ll find everything you need to complete your quest right here, so have a look around and if you’ve any questions you can contact our team at [gameofcode@thehutgroup.com](mailto:gameofcode@thehutgroup.com)
 
 ---
 

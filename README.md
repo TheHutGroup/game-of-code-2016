@@ -13,7 +13,7 @@ You’ll find everything you need to complete your quest right here, so have a l
 
 ---
 
-## 4 STEPS TO BEGIN YOUR QUEST
+## 5 STEPS TO BEGIN YOUR QUEST
 
 ### Step 01: Read the [rules of Game of Code.](https://github.com/TheHutGroup/game-of-code-2016/wiki)
 ### Step 02: [Send us](http://eepurl.com/bDujqj) your email address, Github ID and participation details.

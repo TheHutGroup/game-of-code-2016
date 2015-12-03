@@ -17,7 +17,7 @@ You’ll find everything you need to complete your quest right here, so have a l
 
 ### Step 01: Read the [rules of Game of Code.](https://github.com/TheHutGroup/game-of-code-2016/wiki)
 ### Step 02: [Send us](http://eepurl.com/bDujqj) your email address, Github ID and participation details.
-### Step 03: [Fork](https://github.com/TheHutGroup/game-of-code-2016#fork-destination-box) this repo to your Github account 
+### Step 03: Fork this repo to your Github account 
 ### Step 04: Develop your idea for a Health & Beauty / Fitness, or nutrition mobile app.
 ### Step 05: Modify your fork to present your proposal.
 

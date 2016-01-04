@@ -29,7 +29,7 @@ We need to know your email address and GitHub ID so that we can contact you abou
 
 ## The short story
 
-Game of Code is your quest to build an app for the health and beauty sector and win yourself £100,000. There are two phases – the first is to submit a proposal of your app, and the second is to develop that idea into a working prototype. Only successful entries from the first phase will be required to develop their apps for the second. It is open to anyone over 18 years of age and entries can be submitted by individuals or by a team of up to five members. The creators of the fifteen best prototypes will be invited to the grand final in London in May 2016, where the winner of the £100,000 prize will be announced.
+Game of Code is your quest to build an app for the health and beauty sector and win yourself £100,000. There are two phases – the first is to submit a proposal of your app, and the second is to develop that idea into a working prototype. Only successful entries from the first phase will be required to develop their apps for the second. It is open anyone aged 18 or over who is domiciled in the United Kingdom (excluding Northern Ireland) for the duration the Competition and entries can be submitted by individuals or by a team of up to five members. The best prototypes (to be decided by a public vote) will be invited to the grand final where a panel of judges and industry experts will decide on the winner of the £100,000 prize.
 
 ---
 Copyright [2015]/[2016] [The Hut Ltd]
